@@ -77,7 +77,7 @@ download-cli "https://example.com/file.zip" -o file.zip -x 8 -H "User-Agent: Cus
 
 **Vihaan Reddy**  
 GitHub: [VihaanReddyM](https://github.com/VihaanReddyM)  
-Project Repository: [Download-CLI](https://github.com/VihaanReddyM/Download-CLI)
+<!-- Project Repository: [Download-CLI](https://github.com/VihaanReddyM/Download-CLI) -->
 
 ---
 
@@ -86,7 +86,9 @@ Project Repository: [Download-CLI](https://github.com/VihaanReddyM/Download-CLI)
 This APT repository will be **actively updated** with new releases, bug fixes, and feature enhancements.  
 Stay tuned for improvements and additional features in future versions.
 
-If you encounter issues or have suggestions, please open an issue or pull request on the [main project repository](https://github.com/VihaanReddyM/Download-CLI).
+If you encounter issues or have suggestions, please open an issue or pull request
+
+<!-- If you encounter issues or have suggestions, please open an issue or pull request on the [main project repository](https://github.com/VihaanReddyM/Download-CLI). -->
 
 ---
 
