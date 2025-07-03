@@ -125,7 +125,7 @@ apt-repo/
 - **Package Name**: `python3-download-cli`
 - **Architecture**: `all` (platform-independent Python package)
 - **Dependencies**: `python3`, `python3-requests`
-- **Current Version**: `0.1.0`
+- **Current Version**: `0.2.0`
 - **Section**: `utils`
 - **Priority**: `optional`
 
@@ -138,13 +138,15 @@ apt-repo/
 
 ## 🆕 What's New
 
-### Version 0.1.1 Features
-- ✅ **Fixed background downloads** - `-bg` flag now works correctly
-- ✅ **Enhanced task management** - Robust background process tracking
-- ✅ **Improved type safety** - Comprehensive type hints throughout
-- ✅ **Better error handling** - Graceful handling of network and file errors
-- ✅ **Advanced segmentation** - Smart multi-connection algorithm
-- ✅ **Comprehensive logging** - Detailed logs for background processes
+### Version 0.2.0 Features
+- ✅ **Fixed background downloads** - Complete rewrite of background task system
+- ✅ **Enhanced task management** - Robust process tracking and control
+- ✅ **Improved type safety** - Full type hints and error handling
+- ✅ **Better architecture** - Modular, extensible codebase design
+- ✅ **Advanced segmentation** - Smart multi-connection algorithms
+- ✅ **Comprehensive logging** - Detailed background process logs
+- ✅ **Package consistency** - Proper naming and version management
+- ✅ **Performance improvements** - Optimized download speeds and memory usage
 
 ---
 
@@ -194,7 +196,7 @@ This APT repository is **automatically updated** via GitHub Actions CI/CD pipeli
 - ✅ **Version tracking** - Semantic versioning for easy upgrade management
 
 ### Update Schedule
-- **Stable releases** - Monthly feature updates
+- **Stable releases** - Feature updates as needed
 - **Security patches** - As needed, within 48 hours
 - **Bug fixes** - Weekly maintenance releases
 
